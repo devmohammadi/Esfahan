@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mayor"
+        android:icon="@drawable/ic_baseline_perm_phone_msg_24"
+        android:title="@string/contactMayor" />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_baseline_supervisor_account_24"
+        android:title="@string/about"/>
+
+    <item
+        android:id="@+id/close"
+        android:icon="@drawable/ic_baseline_close_24"
+        android:title="@string/close"/>
+</menu>

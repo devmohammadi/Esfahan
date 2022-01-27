@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/drawable/bg_border.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/drawable/border.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/drawable/ic_baseline_perm_phone_msg_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/drawable/ic_baseline_supervisor_account_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/drawable/shape.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/layout/activity_about.xml" value="0.5" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/layout/activity_handicrafts.xml" value="0.2" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/layout/activity_historical_monuments.xml" value="0.33" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/layout/activity_history.xml" value="0.15654300856094577" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/layout/activity_mayor.xml" value="0.22" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/layout/activity_place.xml" value="0.2" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/layout/activity_video_view.xml" value="0.2" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/layout/item_handicraft.xml" value="0.33" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/layout/item_historical_monuments.xml" value="0.2" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/menu/menu.xml" value="0.2" />
+        <entry key="..\:/Users/Fatemeh/AndroidStudioProjects/Esfahan/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.10989583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.5" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
